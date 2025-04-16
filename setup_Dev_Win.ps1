@@ -10,8 +10,7 @@ while ($response -cne 'I Agree' -and ($totalAsks -lt 2)){
     $totalAsks++
 }
 if ($totalAsks -gt 2){
-    Write-Output "Not trusted."
-    Exit 1
+    Throw "Not trusted."
 }
 if (!(Test-Path $profile -ErrorAction SilentlyContinue)){
 New-Item -Type File -Path $profile
