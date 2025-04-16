@@ -13,6 +13,9 @@ else{
             Write-Output "Not trusted."
             Exit 1
         }
+    if (!(Test-Path $profile -ErrorAction SilentlyContinue)){
+        New-Item -Type File -Path $profile
+        }
     If (!((Get-PSRepository -Name PSGAllery | Select-Object -Property InstallationPolicy) -eq "Trusted")){Set-PSResourceRepository -Name PSGallery -Trusted:$true}
     if(!(Get-AppXPackage -name Microsoft.DesktopAppInstaller)){Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe}
     if (!(Get-PackageProvider -Name PowerShellGet)){Install-PackageProvider WinGet -Force}
@@ -40,13 +43,15 @@ else{
     "ms-vscode.vscode-github-issue-notebooks")
     $currentExtensions = code --list-extensions
     ForEach($reqExtension in $reqExtensions){if ($reqExtension -notin $currentExtensions){code --install-extension $reqExtension}}
+    $ohMyJSON = Invoke-RestMethod -uri 'https://raw.githubusercontent.com/DirtyDabe23/DDrosdick_Public_Repo/refs/heads/main/OhMyPoshConfig.JSON' -Method Get
+    oh-my-posh init pwsh --config $ohMyJSON | Invoke-Expression
     oh-my-posh font install JetBrainsMono
-    oh-my-posh config -c .\OhMyPoshConfig.JSON
-    $terminalSettings = Invoke-RestMethod -Method Get -URI 
+    oh-my-posh config -c ".\ohmyPosh.json"
+    $terminalSettings = Invoke-RestMethod -Method Get -URI "https://raw.githubusercontent.com/DirtyDabe23/DDrosdick_Public_Repo/refs/heads/main/WinTerminalSettings.JSON"
     set-content -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Value $terminalSettings
 
     $modules = Invoke-RestMethod -Method Get -URI "https://raw.githubusercontent.com/DirtyDabe23/DDrosdick_Public_Repo/refs/heads/main/PSModules.JSON"
     ForEach ($module in $modules){
-        Install-PSREsource -Name $module.name -Version $module.version -Scope AllUsers -TrustRepository:$true -Repository $module.Repository
+        Install-PSREsource -Name $module.name -Version ($module.version.Major, $module.version.Minor -join ".") -Scope AllUsers -TrustRepository:$true -Repository $module.Repository
     }
 }
