@@ -1,7 +1,0 @@
-
-$schema     : https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json
-upgrade     : @{source=cdn; interval=168h; auto=False; notice=False}
-blocks      : {@{type=prompt; alignment=left; segments=System.Object[]}, @{type=prompt; alignment=right; segments=System.Object[]}, @{type=prompt; alignment=left; segments=System.Object[]; newline=True}}
-version     : 3
-final_space : True
-
