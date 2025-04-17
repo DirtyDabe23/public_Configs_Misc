@@ -9,7 +9,7 @@ while ($response -cne 'I Agree' -and ($totalAsks -lt 2)){
     $response = Read-Host "Try Again"
     $totalAsks++
 }
-if ($totalAsks -gt 2){
+if ($totalAsks -ge 2){
     Throw "Not trusted."
 }
 if (!(Test-Path $profile -ErrorAction SilentlyContinue)){
