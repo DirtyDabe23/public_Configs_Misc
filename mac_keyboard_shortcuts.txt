@@ -1,0 +1,72 @@
+Universal MacOS Shortcuts:
+Command + C:							Copy
+Command + V:							Paste
+
+
+
+###########################################################################################################################################################
+Non Terminal Mac Shortcuts:
+Fn + Ctrl + F : Maximize but don't full screen
+Fn + Ctrl + R: Return to Previous Size
+
+Command + M: Minimize
+
+Alt + Tab: Navigate between windows
+|
+->(while cycling Windows) Press, hold, and release Option to un-mimize a window
+
+Fn + Ctrl + Arrow Key: 					Move window to Quadrant
+Option + Arrow Key:  					Move to next word in direction
+Option + Shift + Arrow Key: 			Select Whole Word 
+
+Command + Arrow Key:					Move to Start/End of Line / File
+Command + Shift + Arrow Key:			Select Entire Direction
+
+
+
+
+
+
+###########################################################################################################################################################
+Terminal Shortcuts:
+Shell Keybindings
+Navigation 🚀
+Keybinding	Action
+Alt + f/b	Move cursor to previous/next word
+Ctrl + a/e	Move cursor to beginning/end of command
+Ctrl + xx	Toggle between the start of line and current cursor position
+Editing ✏️
+Keybinding	Action
+Alt + . or !$	Previous commands last argument
+Alt + c	Capitalize word
+Alt + d	Delete next word
+Alt + Del	Delete previous word
+Alt + l/u	Lowercase/Uppercase word
+Alt + r	Cancel the changes, revert
+Alt + t	Swap current word with previous
+Alt + w	Delete until beginning (zsh)
+Ctrl + _	Undo
+Ctrl + k	Cut till end
+Ctrl + t	Swap the last two characters before the cursor
+Ctrl + u	Delete whole line (zsh)/ cut until beginning (bash)
+Ctrl + w	Cut previous word
+Ctrl + x,e	Open command in editor
+Ctrl + y	Paste
+Esc + t	Swap the last two words before the cursor
+!*	All arguments of previous command
+Process 📊
+Keybinding	Action
+Ctrl + c	Interrupt/Kill
+Ctrl + d	Close current shell
+Ctrl + l	Clear screen
+Ctrl + z	Background/Foreground job
+History ⏳
+Keybinding	Action
+Ctrl + r	History search
+Ctrl + s	Go back to the next most recent command
+^abc^def	Run previous command, replacing abc with def
+Modes 🕹️
+Keybinding	Action
+Ctrl + x,v	vi mode (zsh)
+bindkey -e	Emacs mode
+set -o vi / bindkey -v	Vi mode
