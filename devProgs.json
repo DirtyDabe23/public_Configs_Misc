@@ -31,9 +31,6 @@
 					"PackageIdentifier" : "Logitech.LogiTune"
 				},
 				{
-					"PackageIdentifier" : "Oracle.VirtualBox"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.msodbcsql.17"
 				},
 				{
@@ -49,9 +46,6 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
 				},
 				{
-					"PackageIdentifier" : "Elgato.StreamDeck"
-				},
-				{
 					"PackageIdentifier" : "GitHub.cli"
 				},
 				{
@@ -62,9 +56,6 @@
 				},
 				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
-				},
-				{
-					"PackageIdentifier" : "Corsair.iCUE.5"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysX"
