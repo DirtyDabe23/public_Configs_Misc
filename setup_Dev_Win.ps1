@@ -73,3 +73,6 @@ $content = @"
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/ddrosdickTheme.omp.json" | Invoke-Expression
 "@
 Set-Content -value $content -Path $PROFILE
+$item = New-Item -Path "HKCU:\Software\Classes\CLSID" -Name "{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" -ItemType "Key"
+New-Item -path $item.PSPath -Name 'InprocServer32' -Value ''
+Get-Process Explorer | Stop-Process
