@@ -10,6 +10,9 @@
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
+					"PackageIdentifier" : "DEVCOM.JetBrainsMonoNerdFont"
+				},
+				{
 					"PackageIdentifier" : "vcsjones.azuresigntool"
 				},
 				{
