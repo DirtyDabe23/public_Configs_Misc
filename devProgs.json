@@ -88,9 +88,6 @@
 					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
-					"PackageIdentifier" : "Valve.Steam"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
@@ -142,9 +139,6 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
 				},
 				{
-					"PackageIdentifier" : "GIGABYTE.RGBFusion"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.WindowsADK"
 				},
 				{
@@ -158,9 +152,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22000"
-				},
-				{
-					"PackageIdentifier" : "Discord.Discord"
 				},
 				{
 					"PackageIdentifier" : "WinDirStat.WinDirStat"
