@@ -10,6 +10,9 @@
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
+					"PackageIdentifier" : "vcsjones.azuresigntool"
+				},
+				{
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
