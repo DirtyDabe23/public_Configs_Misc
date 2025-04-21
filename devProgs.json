@@ -124,9 +124,6 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
 				},
 				{
-					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
 				},
 				{
