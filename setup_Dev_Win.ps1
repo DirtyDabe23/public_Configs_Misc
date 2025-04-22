@@ -45,7 +45,7 @@ ForEach($reqExtension in $reqExtensions){if ($reqExtension -notin $currentExtens
 
 $modules = Invoke-RestMethod -Method Get -URI "https://raw.githubusercontent.com/DirtyDabe23/DDrosdick_Public_Repo/refs/heads/main/PSModules.JSON"
 $allInstalledModules = Get-PSResource -Scope Allusers
-$missingModules = $modules | where {($_.Name -notin $allInstalledModules.Name)}
+$missingModules = $modules | Where-Object {($_.Name -notin $allInstalledModules.Name)}
 $moduleErrorLog = @()
 $moduleErrorCount = 0
 ForEach ($module in $missingModules){
@@ -74,5 +74,6 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/ddrosdickTheme.omp.json" | 
 "@
 Set-Content -value $content -Path $PROFILE
 $item = New-Item -Path "HKCU:\Software\Classes\CLSID" -Name "{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" -ItemType "Key"
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize\" -Name 'AppsUseLightTheme' -Value '0' -Type DWORD
 New-Item -path $item.PSPath -Name 'InprocServer32' -Value ''
 Get-Process Explorer | Stop-Process
