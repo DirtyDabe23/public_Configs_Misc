@@ -1,0 +1,29 @@
+# Jira API Setup
+$encodedText = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes("david.drosdick@uniqueParentCompany.com:$jiraRetrSecret"))
+$headers = @{
+    "Authorization" = "Basic $encodedText"
+    "Content-Type"  = "application/json"
+}
+
+$i = $True 
+While ($i -eq $true)
+{
+$uriTemplate = "https://uniqueParentCompany.atlassteamMember.net/rest/api/2/search?jql=project%3Dspec%20AND%20labels%20%3D%20EMPTY&startAt={0}"
+
+# Retrieve total issue count
+$unLabledTotals = (Invoke-RestMethod -Method Get -Uri ($uriTemplate -f 0) -Headers $headers).total
+
+
+$uriTemplate = "https://uniqueParentCompany.atlassteamMember.net/rest/api/2/search?jql=project%3Dspec%20AND%20labels%20!%3D%20EMPTY&startAt={0}"
+
+# Retrieve total issue count
+$labledTotals = (Invoke-RestMethod -Method Get -Uri ($uriTemplate -f 0) -Headers $headers).total
+
+$currTime = Get-Date -format "HH:mm"
+Write-Output "[$($currTime)] | Total Labled: $labledTotals | Total Unlabled: $unLabledTotals"
+Start-Sleep -Seconds 5
+}
+
+
+
+
