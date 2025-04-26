@@ -1,2 +1,0 @@
-Get-MGBetaGroup -ConsistencyLevel eventual -Search "DisplayName:KnowBe4"
-
