@@ -77,27 +77,27 @@
   {
     "Key": "FN + Enter",
     "Function": "Battery power status checking",
-    "Remarks / Alt": "FN + Z\t"
+    "Remarks / Alt": ""
   },
   {
-    "Key": "Cycle onboard 4 profiles MPI (F) blinks in color defined for the profile:1. White - Water Color2. Red - Spiral Rainbow3. Green - Rain4. Blue - Rainbow Wave",
-    "Function": null,
-    "Remarks / Alt": null
+    "Key": "FN + Z",
+    "Function": "Cycle onboard 4 profiles MPI (F) blinks in color defined for the profile:1. White - Water Color2. Red - Spiral Rainbow3. Green - Rain4. Blue - Rainbow Wave",
+    "Remarks / Alt": ""
   },
   {
     "Key": "FN + /?",
     "Function": "PRTSC",
-    "Remarks / Alt": "Print screen key\t "
+    "Remarks / Alt": "Print screen key"
   },
   {
     "Key": "FN + O",
     "Function": "SCRLK",
-    "Remarks / Alt": "Toggles Scroll Lock on and off\t "
+    "Remarks / Alt": "Toggles Scroll Lock on and off"
   },
   {
     "Key": "FN + P",
     "Function": "PAUSE",
-    "Remarks / Alt": "Pause break key\t "
+    "Remarks / Alt": "Pause break key"
   },
   {
     "Key": "FN + Up",
