@@ -1,0 +1,127 @@
+[
+  {
+    "Key": "FN + F1\t",
+    "Function": "Reduce the screen's brightness",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F2\t",
+    "Function": "Increase the screen's brightness",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F3\t",
+    "Function": "Toggle task view for windows",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F4\t",
+    "Function": "Launch File Explorer",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F5\t",
+    "Function": "Reduce KB backlight brightness",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F6 ",
+    "Function": "Increase KB backlight brightness",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F7\t",
+    "Function": "Last track command",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F8\t",
+    "Function": "Pause/play command",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F9\t",
+    "Function": "Next track command\t",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F10",
+    "Function": "Mute",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F11",
+    "Function": "Volume Down",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + F12",
+    "Function": "Volume Up",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + [ {",
+    "Function": "INS",
+    "Remarks / Alt": "Insert key\t "
+  },
+  {
+    "Key": "FN + ] }",
+    "Function": "END",
+    "Remarks / Alt": "End key\t "
+  },
+  {
+    "Key": "FN + L",
+    "Function": "Toggle Win Lock on and off",
+    "Remarks / Alt": "Press and release"
+  },
+  {
+    "Key": "FN + Enter",
+    "Function": "Battery power status checking",
+    "Remarks / Alt": "FN + Z\t"
+  },
+  {
+    "Key": "Cycle onboard 4 profiles MPI (F) blinks in color defined for the profile:1. White - Water Color2. Red - Spiral Rainbow3. Green - Rain4. Blue - Rainbow Wave",
+    "Function": null,
+    "Remarks / Alt": null
+  },
+  {
+    "Key": "FN + /?",
+    "Function": "PRTSC",
+    "Remarks / Alt": "Print screen key\t "
+  },
+  {
+    "Key": "FN + O",
+    "Function": "SCRLK",
+    "Remarks / Alt": "Toggles Scroll Lock on and off\t "
+  },
+  {
+    "Key": "FN + P",
+    "Function": "PAUSE",
+    "Remarks / Alt": "Pause break key\t "
+  },
+  {
+    "Key": "FN + Up",
+    "Function": "Change dial mode to volume up (clockwise) / down (counterclockwise)\tDefault modePress: Mute / unmute",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + Down",
+    "Function": "Change dial mode to scroll up (counterclockwise) / down (clockwise)\tWorks only when windows support scroll functionPress: End of page",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + Left",
+    "Function": "Change dial mode to KB backlight brightness up (clockwise) / down (counterclockwise)\tPress: Turn on / off light",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + Right",
+    "Function": "Change dial mode to zoom in (clockwise) / out (counterlockwise)\tPress: Reset to default zoom",
+    "Remarks / Alt": ""
+  },
+  {
+    "Key": "FN + Delete",
+    "Function": "Delete\tPress FN + Delete for 3 seconds to enable 2.4GHz mode pairing. Delete & MPI will blink for 120 seconds, during which user should insert wireless adapter to complete pairing process",
+    "Remarks / Alt": ""
+  }
+]
