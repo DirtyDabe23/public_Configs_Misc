@@ -40,10 +40,10 @@
     - If one does not practice what one preaches, how are we to expect others to do what we are asking? 
         - We cannot.  
     - One is be a paragon of *morality* and *character*.  
-        -*Honesty*: **being true to myself, my family, my friends, and society.**
+        - *Honesty*: **being true to myself, my family, my friends, and society.**
             - Owning my mistakes  
             - Sharing my victories are essential to being a better person.  
-    - *Justice*: **the practice of being fair and standing up for others**
+    -  *Justice*: **the practice of being fair and standing up for others**
         - **Standing up for what I believe in**
         - **Not allowing the mistreatreatment of myself, my family, my friends, and society**
         - **Justice must primarily be concerned for and protect those who cannot stand up for themselves, the downtrodden, and people who never had an opportunity**
