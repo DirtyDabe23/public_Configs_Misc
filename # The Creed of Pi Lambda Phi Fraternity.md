@@ -28,7 +28,7 @@
 - Commentary:
     - Through a universal standard of freedom, endowing people regardless of background, race, ideology, and religion, we eliminate our preconceived notions of others.
     	- *Any ideology, religion, or philosophy that seeks to express, exploit, discriminate, exclude, or otherwise seek to harm others are incompatible with a Just Society.*
-  	- *Very very few people are beyond saving. Most hate is fear.*
+     	- *Very very few people are beyond saving. Most hate is fear.*
     - Through that elimination we meet each person as a fresh individual, and base our ideas off experience instead of hearsay.  
     - Through an understanding of each individual better, the ambiguity fades.  
     - With multiple viewpoints, we posses countless solutions which sharpens our ability to solve complex problems.
