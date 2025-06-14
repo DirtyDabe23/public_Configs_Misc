@@ -1,9 +1,9 @@
 # The Creed of Pi Lambda Phi Fraternity
 # With Commentary by David J. Drosdick
-**The commentary is the express viewpoints of David J. Drosdick, first authored in 2011, modified in 2025.**
-**As it was a Social Fraternity, the The Creed text is gendered / exclusively 'men'.**
-**My commentary is non-gendered.**
-**[Information about Pi Lambda Phi Social Fraternity can be found here](https://www.pilambdaphi.org/about/creed-values/)**
+- **The commentary is the express viewpoints of David J. Drosdick, first authored in 2011, modified in 2025.**
+- **As it was a Social Fraternity, the The Creed text is gendered / exclusively 'men'.**
+- **My commentary is non-gendered.**
+- **[Information about Pi Lambda Phi Social Fraternity can be found here](https://www.pilambdaphi.org/about/creed-values/)**
 
 
 ***The Creed: “That all Men are created Free and Equal.”***
