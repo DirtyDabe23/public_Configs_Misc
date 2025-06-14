@@ -35,7 +35,7 @@
     - That if required, it is my duty and privilege to fight for such freedom, to stand up for what is right, *especially when no one else will*.  
 
 ***“That it is incumbent upon me in my Personal Life to be devoted to the Highest Standards of Honesty and Justice.”***
--Commentary:
+- Commentary:
     - The only way one can lead is through example.  
     - If one does not practice what one preaches, how are we to expect others to do what we are asking? 
         - We cannot.  
