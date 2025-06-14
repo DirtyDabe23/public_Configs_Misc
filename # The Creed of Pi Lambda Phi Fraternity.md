@@ -63,7 +63,7 @@
         - Yet, until equality is truly recognized by all people, for all people. 
             - I will continue to fight for change in order to afford the privileges that have been endowed to me to those who do not have them.  
             - That if my country deviates from their position on freedom and justice for all people of all creeds, I will refuse to stand idly by.
-            - ***I will fight for said equality and will refuse to be complicit with violences towards others***
+            - ***I will fight for said equality and will refuse to be complicit with violence towards others***
             - ***If one group is silenced for reasons deemed arbitrary, it is up to all of us to stand for those persecuted.***
 	- The Creed provides me with a foundation to live my life.
         - ***I am to live by its tenets and I must also rise above the expectations placed upon me.***  
