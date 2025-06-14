@@ -35,7 +35,7 @@
 	- That freedom and the elimination of prejudice are the only ways that a society can flourish.  
     - That if required, it is my duty and privilege to fight for such freedom, to stand up for what is right, *especially when no one else will*.  
 
-***“That it is incumbent upon me in my Personal Life to be devoted to the Highest Standards of Honesty and Justice.”***
+***Original:	“That it is incumbent upon me in my Personal Life to be devoted to the Highest Standards of Honesty and Justice.”***
 - Commentary:
     - The only way one can lead is through example.  
     - If one does not practice what one preaches, how are we to expect others to do what we are asking? 
@@ -52,7 +52,7 @@
         - **When I am the one who is the problem, I must be accountable**
     - ***Through these two values I have a foundation on which I can base the rest of my morals, the very core of my ideals.***
 
-***“That because my Country is dedicated to the Highest Standards of Freedom and Justice for all Men of all Creeds, I hereby pledge Allegiance to my Country, and to its National Symbol.”***
+***Original:	“That because my Country is dedicated to the Highest Standards of Freedom and Justice for all Men of all Creeds, I hereby pledge Allegiance to my Country, and to its National Symbol.”***
 - Commentary:
 	- My country, the United States of America, has long since been devoted to giving all people an equal opportunity.  
         - That because of this, I will pledge allegiance to my country, its flag, and the symbols associated with it.  
