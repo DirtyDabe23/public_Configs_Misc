@@ -1,10 +1,12 @@
-# The Creed of Pi Lambda Phi Fraternity with Commentary by David J. Drosdick
+# The Creed of Pi Lambda Phi Fraternity
+# With Commentary by David J. Drosdick
 **The commentary is the express viewpoints of David J. Drosdick, first authored in 2011, modified in 2025.**
-**As it was a Social Fraternity, the original text is gendered / exclusively 'men'. My commentary is non-gendered.**
+**As it was a Social Fraternity, the original text is gendered / exclusively 'men'.** 
+**My commentary is non-gendered.**
 **[Information about Pi Lambda Phi Social Fraternity can be found here](https://www.pilambdaphi.org/about/creed-values/)**
 
 
-***“That all Men are created Free and Equal.”***
+*** Original: “That all Men are created Free and Equal.”***
 - Commentary:
     - All people are created unchained, unbound by another's will and are free to do what they want within the limitations of just laws.  
     - At birth, therefore creation, we are truly unbound by societies influence.  
@@ -35,12 +37,12 @@
     - That if required, it is my duty and privilege to fight for such freedom, to stand up for what is right, *especially when no one else will*.  
 
 ***“That it is incumbent upon me in my Personal Life to be devoted to the Highest Standards of Honesty and Justice.”***
--Commentary:
+- Commentary:
     - The only way one can lead is through example.  
     - If one does not practice what one preaches, how are we to expect others to do what we are asking? 
         - We cannot.  
     - One is be a paragon of *morality* and *character*.  
-        -*Honesty*: **being true to myself, my family, my friends, and society.**
+        - *Honesty*: **being true to myself, my family, my friends, and society.**
             - Owning my mistakes  
             - Sharing my victories are essential to being a better person.  
     - *Justice*: **the practice of being fair and standing up for others**
