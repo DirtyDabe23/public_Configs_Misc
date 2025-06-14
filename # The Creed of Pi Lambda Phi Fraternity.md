@@ -1,14 +1,5 @@
 # The Creed of Pi Lambda Phi Fraternity
 # With Commentary by David J. Drosdick
-<<<<<<< HEAD
-**The commentary is the express viewpoints of David J. Drosdick, first authored in 2011, modified in 2025.**
-**As it was a Social Fraternity, the original text is gendered / exclusively 'men'.** 
-**My commentary is non-gendered.**
-**[Information about Pi Lambda Phi Social Fraternity can be found here](https://www.pilambdaphi.org/about/creed-values/)**
-
-
-*** Original: “That all Men are created Free and Equal.”***
-=======
 - **The commentary is the express viewpoints of David J. Drosdick, first authored in 2011, modified in 2025.**
 - **As it was a Social Fraternity, the The Creed text is gendered / exclusively 'men'.**
 - **My commentary is non-gendered.**
@@ -16,29 +7,10 @@
 
 
 ***The Creed: “That all Men are created Free and Equal.”***
->>>>>>> 81b7ff175be412fbf230b69af276549f7d63d1a3
 - Commentary:
     - All people are created unchained, unbound by another's will and are free to do what they want within the limitations of just laws.  
     - At birth, therefore creation, we are truly unbound by societies influence.  
     - ***In addition to this, no one person is worth more than another at birth.***
-<<<<<<< HEAD
-    - It is through our contributions to society that we gain our worth.  
-    - That without those contributions, we are without worth.   
-    - ***It is our deeds that make us.***
-
-***“That no Society of Men can flourish unless Members of that Society are endowed the Opportunities and Privileges of Freedom.”***
-- Commentary:
-    - If society did not give all people freedom, it would result in a stagnant society.  
-    - Through learning from our mistakes, and the mistakes of others we achieve personal and universal growth.  
-    - In a more negative point of view, a society in which people of any demographic are chained, then society has regressed to a barbaric state in which equality is non-existent.  
-    - It is only through our ability to determine and pursue our own destiny that our true and perfected self emerges.  
-    - ***With the destruction of freedom, we are constrained by chains both literal and metaphorical, trapping minds as well as bodies.***
-    - ***Thus preventing the perfect iteration of a society to emerge.***
-
-***“That Freedom implies the Elimination of Prejudice -- That the Elimination of Prejudice means a Better Understanding 'twixt Men.”***
-- Commentary:
-    - Through a universal standard of freedom, endowing people regardless of background, race, ideology, and religion, we eliminate our preconceived notions of others.  
-=======
     - It is through our contributions to Society that we gain our worth.  
     - That without those contributions, we are without worth.   
     - ***It is our deeds that make us.***
@@ -57,20 +29,13 @@
     - Through a universal standard of freedom, endowing people regardless of background, race, ideology, and religion, we eliminate our preconceived notions of others.
     	- *Any ideology, religion, or philosophy that seeks to express, exploit, discriminate, exclude, or otherwise seek to harm others are incompatible with a Just Society.*
      	- *Very very few people are beyond saving. Most hate is fear.*
->>>>>>> 81b7ff175be412fbf230b69af276549f7d63d1a3
     - Through that elimination we meet each person as a fresh individual, and base our ideas off experience instead of hearsay.  
     - Through an understanding of each individual better, the ambiguity fades.  
     - With multiple viewpoints, we posses countless solutions which sharpens our ability to solve complex problems.
 
-<<<<<<< HEAD
-***“That it is incumbent upon me to fight for such Freedom even with my Life.”***
-- Commentary: 
-	- That freedom and the elimination of prejudice are the only ways that a society can flourish.  
-=======
 ***The Creed:	“That it is incumbent upon me to fight for such Freedom even with my Life.”***
 - Commentary: 
 	- That freedom and the elimination of prejudice are the only ways that a Society can flourish.  
->>>>>>> 81b7ff175be412fbf230b69af276549f7d63d1a3
     - That if required, it is my duty and privilege to fight for such freedom, to stand up for what is right, *especially when no one else will*.  
 
 ***“That it is incumbent upon me in my Personal Life to be devoted to the Highest Standards of Honesty and Justice.”***
@@ -79,20 +44,12 @@
     - If one does not practice what one preaches, how are we to expect others to do what we are asking? 
         - We cannot.  
     - One is be a paragon of *morality* and *character*.  
-<<<<<<< HEAD
-        - *Honesty*: **being true to myself, my family, my friends, and society.**
-=======
         - *Honesty*: **being true to myself, my family, my friends, and Society.**
->>>>>>> 81b7ff175be412fbf230b69af276549f7d63d1a3
             - Owning my mistakes  
             - Sharing my victories are essential to being a better person.  
     - *Justice*: **the practice of being fair and standing up for others**
         - **Standing up for what I believe in**
-<<<<<<< HEAD
-        - **Not allowing the mistreatreatment of myself, my family, my friends, and society**
-=======
         - **Not allowing the mistreatreatment of myself, my family, my friends, and Society**
->>>>>>> 81b7ff175be412fbf230b69af276549f7d63d1a3
         - **Justice must primarily be concerned for and protect those who cannot stand up for themselves, the downtrodden, and people who never had an opportunity**
         - **Justice is essential to the preservation of freedom.**
         - **When I am the one who is the problem, I must be accountable**
