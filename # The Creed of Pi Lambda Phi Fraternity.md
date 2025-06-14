@@ -18,9 +18,9 @@
 ***The Creed:	“That no Society of Men can flourish unless Members of that Society are endowed the Opportunities and Privileges of Freedom.”***
 - Commentary:
     - If society does not give all people freedom, it results in a stagnant society.  
-    - Through learning from our mistakes, and the mistakes of others we achieve personal and universal growth.  
+    - Through learning from our mistakes, and the mistakes of others we achieve personal and universal growth.
+    - It is only through our ability to determine and pursue our own destiny that our true and perfected self emerges.     
     - In a more negative point of view, a society in which people of any demographic are chained, then society has regressed to a barbaric state in which equality is non-existent.  
-    - It is only through our ability to determine and pursue our own destiny that our true and perfected self emerges.  
     - ***With the destruction of freedom, we are constrained by chains both literal and metaphorical, trapping minds as well as bodies.***
     - ***Thus preventing the perfect iteration of a society to emerge.***
 
