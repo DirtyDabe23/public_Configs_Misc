@@ -11,10 +11,7 @@
 ***OR ANYONE THAT GETS ACCESS TO YOUR TERMINAL THINGS ARE GOOD TO RUN*** <br>
 **This can be a security liablity depending on steps taken to secure your environment.** <br>
 **Most personal computers are not secure. You should rerestrict**<br>
-
-    ``` 
-    Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force -Scope Machine
-    ``` 
+``` Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force -Scope Machine 
 - Install Powershell 7:
     - Direct Link: [PowerShell-7.5.2-win-x64.msi](https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/PowerShell-7.5.2-win-x64.msi)
     - PowerShell Method: Copy and paste into your PowerShell window as a full command block. It might not work properly line by line
