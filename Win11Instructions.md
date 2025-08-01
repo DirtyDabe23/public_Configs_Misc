@@ -34,7 +34,7 @@
     ```
 - If Provided the ZIP File, exected the 'ProvidedModule' into C:\Program Files\PowerShell\Modules
 - Launch PowerShell 7 as Admin:
-    - ```
+    ```
     Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
     ```
 - Review the email I sent for specific commands as this will handle installing the module
