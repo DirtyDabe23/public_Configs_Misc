@@ -6,9 +6,10 @@
     - It’ll be Windows PowerShell 
     - It will be slow
 
-***Run the following commands***
-***DISCLAIMER: THIS ALLOWS whatever bullshit scripts I, OR ANYONE THAT GETS ACCESS TO YOUR TERMINAL THINGS ARE GOOD TO RUN*** . 
-**This can be a security liablity depending on steps taken to secure your environment. Most personal computers are not secure. You should rerestrict**
+***Run the following commands*** <br>
+***DISCLAIMER: THIS ALLOWS whatever bullshit scripts I, OR ANYONE THAT GETS ACCESS TO YOUR TERMINAL THINGS ARE GOOD TO RUN*** <br>
+**This can be a security liablity depending on steps taken to secure your environment.** <br>
+**Most personal computers are not secure. You should rerestrict**<br>
 
     ``` 
     Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force -Scope Machine
