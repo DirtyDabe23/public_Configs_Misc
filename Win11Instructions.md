@@ -5,11 +5,13 @@
 - Open PowerShell, as Administrator
     - It’ll be Windows PowerShell 
     - It will be slow
-    -  ***** Run the following commands, this will let you run whatever bullshit scripts I tell you to run. This is a huge security liability. You are accepting all risk etc *****
-    
+
+***** Run the following commands, this will let you run whatever bullshit scripts I tell you to run. This is a huge security liability. You are accepting all risk etc *****
+
     ``` 
     Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force -Scope Machine
     ``` 
+
 - At the end you should probably re-restrict it, the scripts are signed in a production environment, but it makes copy and pasting shitty. 
 - Install Powershell 7:
     - Direct Link: [PowerShell-7.5.2-win-x64.msi](https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/PowerShell-7.5.2-win-x64.msi)
@@ -38,5 +40,11 @@
     Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
     ```
 - Review the email I sent for specific commands as this will handle installing the module
+
+- When concluded:
+```
+Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope Machine
+```
+
 
 
