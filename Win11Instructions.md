@@ -1,43 +1,47 @@
 # Upgrading from Windows 10 to Windows 11
 ## Written by David J Drosdick
+- **DISCLAIMER THIS ALLOWS ***whatever bullshit*** scripts I** 
+    - ***OR ANYONE THAT GETS ACCESS TO YOUR TERMINAL TO RUN***
+    - **This can be an extreme security liablity depending on steps taken to secure your environment.**
+    - **You must be sure your device is not infected by malware, perform a full AV scan**
+    - ***Review Task Scheduler Specifically***
+- **Most personal computers are not secure. You should rerestrict your execution policy on conclusion of the upgrade**
+- **Take this as an opportunity to go Passwordless, use Windows Hello, move to iOS for personal data, move to Philly, whatever**
 
-# Getting PowerShell to Work 
+### Getting PowerShell to Work 
 - Open PowerShell, as Administrator
     - It’ll be Windows PowerShell 
     - It will be slow
-
-- ***Run the following commands***
-    - **DISCLAIMER THIS ALLOWS ***whatever bullshit*** scripts I** 
-    - ***OR ANYONE THAT GETS ACCESS TO YOUR TERMINAL TO RUN***
-    - **This can be a security liablity depending on steps taken to secure your environment.**
-    - **Most personal computers are not secure. You should rerestrict**
 ```
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force -Scope Machine
 ```
+### Installing PowerShell 7:
 - Install Powershell 7:
     - Direct Link: [PowerShell-7.5.2-win-x64.msi](https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/PowerShell-7.5.2-win-x64.msi)
     - PowerShell Method: Copy and paste into your PowerShell window as a full command block. It might not work properly line by line
     
 ```
 if ($psVersionTable.PSVersion.Major -ne 7){
-Write-Output "Installing PowerShell 7"
-## Using Invoke-RestMethod
-$webData = Invoke-RestMethod -Uri "https://api.github.com/repos/PowerShell/PowerShell/releases/latest"
-## Using Invoke-WebRequest
-$webData = ConvertFrom-JSON (Invoke-WebRequest -uri "https://api.github.com/repos/PowerShell/PowerShell/releases/latest")
-## The release download information is stored in the "assets" section of the data
-$assets = $webData.assets
-## The pipeline is used to filter the assets object to find the release version we want
-$asset = $assets | where-object { $_.name -match "win-x64" -and $_.name -match ".msi"}
-## Download the latest version into the same directory we are running the script in
-write-output "Downloading $($asset.name)"
-Invoke-WebRequest $asset.browser_download_url -OutFile "$pwd\$($asset.name)"
-msiexec.exe /package PowerShell-7.5.0-win-x64.msi /quiet ADD_EXPLORER_CONTEXT_MENU_OPENPOWERSHELL=1 ADD_FILE_CONTEXT_MENU_RUNPOWERSHELL=1 ENABLE_PSREMOTING=1 REGISTER_MANIFEST=1 USE_MU=1 ENABLE_MU=1 ADD_PATH=1
-Write-Output "Install of PowerShell 7 Completed, relaunch and rerun with PWSH 7"
+    Write-Output "Installing PowerShell 7"
+    ## Using Invoke-RestMethod
+    $webData = Invoke-RestMethod -Uri "https://api.github.com/repos/PowerShell/PowerShell/releases/latest"
+    ## Using Invoke-WebRequest
+    $webData = ConvertFrom-JSON (Invoke-WebRequest -uri "https://api.github.com/repos/PowerShell/PowerShell/releases/latest")
+    ## The release download information is stored in the "assets" section of the data
+    $assets = $webData.assets
+    ## The pipeline is used to filter the assets object to find the release version we want
+    $asset = $assets | where-object { $_.name -match "win-x64" -and $_.name -match ".msi"}
+    ## Download the latest version into the same directory we are running the script in
+    write-output "Downloading $($asset.name)"
+    Invoke-WebRequest $asset.browser_download_url -OutFile "$pwd\$($asset.name)"
+    msiexec.exe /package PowerShell-7.5.0-win-x64.msi /quiet ADD_EXPLORER_CONTEXT_MENU_OPENPOWERSHELL=1 ADD_FILE_CONTEXT_MENU_RUNPOWERSHELL=1 ENABLE_PSREMOTING=1 REGISTER_MANIFEST=1 USE_MU=1 ENABLE_MU=1 ADD_PATH=1
+    Write-Output "Install of PowerShell 7 Completed, relaunch and rerun with PWSH 7"
 }
 ```
-
+### Using PowerShell 7
 - Launch PowerShell 7 as Admin
+- Enter the following command
+
 ```
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 ```
@@ -45,6 +49,7 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 - Enter the following into PowerShell 7 (Admin)
     - Note: This has been modified and ported, as in 2021 it was using WMI commands. 
     - This has since been deprecated by Microsoft, and the port to CIM was written by David J Drosdick
+
 ```
 function Get-Windows11HardwareReadiness {
     <#
@@ -551,11 +556,16 @@ $isSecureBootEnabled | Out-Null
 return [pscustomobject]$outObject | Format-List
 }   
 ```
-- Then enter the command:
+
+- Then enter the command
+
 ```
 Get-Windows11HardwareReadiness
 ```
+
+### Post Execution 
 - Review the output, do some googling, and follow the steps required to get compatible.
+- **You may need to enable TPM via your BIOS and enable SecureBoot. You will need to consult your motherboard documentation**
 - When returns as Capable or with a code '0'
 - Enter the following in PowerShell 7
 ```
@@ -636,20 +646,19 @@ function Start-Windows11Upgrade{
     }
 }
 ```
-- Initiate the update via
+### Kicking off the upgrade
+- Initiate the update via this command in PowerShell 7 (as admin, same session where the above function was entered)
 ```
 Start-Windows11Upgrade
 ```
+### Do something else and check in occassionally
 - Monitor for Progress
     - It will take several hour(s)
     - There will be multiple reboots
     - It may take you through OOBE, Windows Hello Configuration, or various other consent screen(s)
 
+### Wrapping up
 - When concluded
-
 ```
 Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope Machine
 ```
-
-
-
