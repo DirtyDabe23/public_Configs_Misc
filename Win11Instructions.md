@@ -1,5 +1,5 @@
 # Upgrading from Windows 10 to Windows 11
-## This is written by David J Drosdick
+## Written by David J Drosdick
 
 # Getting PowerShell to Work 
 - Open PowerShell, as Administrator
