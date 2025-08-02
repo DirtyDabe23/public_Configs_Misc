@@ -1,4 +1,4 @@
-# Installing Windows 11: On a personal home computer
+# Upgrading from Windows 10 to Windows 11
 ## This is written by David J Drosdick
 
 # Getting PowerShell to Work 
@@ -556,7 +556,7 @@ return [pscustomobject]$outObject | Format-List
 Get-Windows11HardwareReadiness
 ```
 - Review the output, do some googling, and follow the steps required to get compatible.
-- When returns as ready, passing, or with a code '0'
+- When returns as Capable or with a code '0'
 - Enter the following in PowerShell 7
 ```
 function Start-Windows11Upgrade{
