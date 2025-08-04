@@ -34,9 +34,9 @@ if ($psVersionTable.PSVersion.Major -ne 7){
     ## Download the latest version into the same directory we are running the script in
     write-output "Downloading $($asset.name)"
     Invoke-WebRequest $asset.browser_download_url -OutFile "$pwd\$($asset.name)"
-    msiexec.exe /package PowerShell-7.5.0-win-x64.msi /quiet ADD_EXPLORER_CONTEXT_MENU_OPENPOWERSHELL=1 ADD_FILE_CONTEXT_MENU_RUNPOWERSHELL=1 ENABLE_PSREMOTING=1 REGISTER_MANIFEST=1 USE_MU=1 ENABLE_MU=1 ADD_PATH=1
+    msiexec.exe /package "$pwd\$($asset.name)" /quiet ADD_EXPLORER_CONTEXT_MENU_OPENPOWERSHELL=1 ADD_FILE_CONTEXT_MENU_RUNPOWERSHELL=1 ENABLE_PSREMOTING=1 REGISTER_MANIFEST=1 USE_MU=1 ENABLE_MU=1 ADD_PATH=1
     Write-Output "Install of PowerShell 7 Completed, relaunch and rerun with PWSH 7"
-}
+    }
 ```
 ### Using PowerShell 7
 - Launch PowerShell 7 as Admin
