@@ -35,7 +35,7 @@ Monday:
 - Before Bed: 		
     - Stretch
     - Mindfulness 
-<br>
+
 Tuesday:
 - Before Work: 		Walk Buddy
 - Work: 			Walk
@@ -46,7 +46,7 @@ Tuesday:
     - 5 sets of 10 sit ups
     -Stretch
     -Mindfulness
-<br>
+
 Wednesday:
 - Before Work:      Walk Buddy
 - Work: 			Walk
@@ -54,7 +54,6 @@ Wednesday:
 - Before Bed: 		
     - Stretch
     - Mindfulness 
-<br>
 
 Thursday:
 - Before Work: 		Walk Buddy
@@ -66,7 +65,7 @@ Thursday:
     - 5 sets of 10 sit ups
     -Stretch
     -Mindfulness
-<br>
+
 Friday
 - Before Work:      Walk Buddy
 - Work: 			Walk
@@ -74,21 +73,19 @@ Friday
 - Before Bed: 		
     - Stretch
     - Mindfulness 
-<br>
-
-
+    
 Saturday
-Morning: 
+- Morning: 
     - Stretch
     - Cardio
     - Mindfulness
-Afternoon: 		
+- Afternoon: 		
     - Strength: Arms + Legs
-
-Before Bed: 		
+- Before Bed: 		
     - Stretching + Mindfulness 
 
 Sunday
+- Morning
     - Stretch
     - Cardio
     - Mindfulness
