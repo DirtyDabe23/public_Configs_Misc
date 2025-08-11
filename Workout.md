@@ -44,8 +44,8 @@ Tuesday:
     - 5 sets of 10/10/10 crunches
     - 5 sets of 10 push ups
     - 5 sets of 10 sit ups
-    -Stretch
-    -Mindfulness
+    - Stretch
+    - Mindfulness
 
 Wednesday:
 - Before Work:      Walk Buddy
@@ -63,8 +63,8 @@ Thursday:
     - 5 sets of 10/10/10 crunches
     - 5 sets of 10 push ups
     - 5 sets of 10 sit ups
-    -Stretch
-    -Mindfulness
+    - Stretch
+    - Mindfulness
 
 Friday
 - Before Work:      Walk Buddy
