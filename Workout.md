@@ -63,6 +63,9 @@ Thursday:
     - 1 sets of 10/10/10 crunches
     - 1 sets of 10 push ups
     - 1 sets of 10 sit ups
+    - 1 sets of 10 leg lifts
+    - 1 sets of 10 row-boats
+    - 30 second wall sit
     - Stretch
     - Mindfulness
 
