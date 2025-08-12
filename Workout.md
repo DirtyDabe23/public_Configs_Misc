@@ -41,9 +41,9 @@ Tuesday:
 - Work: 			Walk
 - After Work: 		Walk
 - Before Bed: 
-    - 5 sets of 10/10/10 crunches
-    - 5 sets of 10 push ups
-    - 5 sets of 10 sit ups
+    - 1 sets of 10/10/10 crunches
+    - 1 sets of 10 push ups
+    - 1 sets of 10 sit ups
     - Stretch
     - Mindfulness
 
@@ -60,9 +60,9 @@ Thursday:
 - Work: 			Walk
 - After Work: 		Walk
 - Before Bed: 
-    - 5 sets of 10/10/10 crunches
-    - 5 sets of 10 push ups
-    - 5 sets of 10 sit ups
+    - 1 sets of 10/10/10 crunches
+    - 1 sets of 10 push ups
+    - 1 sets of 10 sit ups
     - Stretch
     - Mindfulness
 
