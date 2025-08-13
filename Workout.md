@@ -121,12 +121,10 @@ Weekdays
 - 1500 - VB 
 - 1550 - Leave Work
 - 1705 - Arrive Home, Get Mail
-- 1710 - Unpack Lunch Box, Put in Sink
-- 1730 - Cardio
-- 1830 - Strength Training
-- 1850 - Clean Cat Bowls, Clean Lunch Items
+- 1710 - Unpack Lunch Box, Put in Sink, Clean Lunch Stuff, Clean Cat Bowls
+- 1830 - Workout
 - 1900 - Feed Girls Dinner
-- 1930 - Cook Dinner
+- 1930 - Cook Dinner / Chill 
 - 2000 - Eat / Dessert 
 - 2030 - Clean up + Food Prep
 - 2100 - Sleep Aids, Prep Clothes for Tomorrow, Floss, Water Flosser, Brush, Scrape, Rinse
