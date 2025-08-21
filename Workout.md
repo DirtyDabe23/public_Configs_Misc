@@ -86,6 +86,9 @@ Thursday:
     - 1 sets of 10 w/20 sit ups
     - 1 sets of 10 leg lifts
     - 1 sets of 10 row-boats
+    - 1 sets of 10 row-boats w/10
+    - 1 sets of 10 row-boats w/15
+    - 1 sets of 10 row-boats w/20
     - 30 second wall sit
     - Stretch
     - Mindfulness
