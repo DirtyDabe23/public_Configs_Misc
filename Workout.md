@@ -14,7 +14,7 @@
         - Magnesium 
     - Lunch
         - Matcha
-        - Macha
+        - Maca
 - Deodorant
     - Old Spice All Body 
     - Lotram Ultra (Feet Spray)
