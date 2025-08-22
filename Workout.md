@@ -96,7 +96,7 @@ Thursday:
 Friday
 - Before Work:      Walk Buddy
 - Work: 			Walk
-- After Work: 		Jog 1 Mile / Walk
+- After Work: 		R E S T
 - Before Bed: 		
     - Stretch
     - Mindfulness 
