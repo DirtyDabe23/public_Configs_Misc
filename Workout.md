@@ -42,24 +42,24 @@ Tuesday:
 - After Work: 		Walk
 - Before Bed:
 - Core
-    - 1 sets of 10/10/10 crunches
-    - 1 sets of 10 push ups
-    - 1 sets of 10 sit ups
-    - 1 sets of 10 w/10 sit ups
-    - 1 sets of 10 w/15 sit ups
-    - 1 sets of 10 w/20 sit ups
+    - 2 sets of 10/10/10 crunches
+    - 2 sets of 10 push ups
+    - 2 sets of 10 sit ups
+    - 2 sets of 10 w/10 sit ups
+    - 2 sets of 10 w/15 sit ups
+    - 2 sets of 10 w/20 sit ups
 - Weights / Arm Focus
-    -  1 sets of 10 w/10 bicep curls (each arm)
-    -  1 sets of 10 w/15 bicep curls (each arm)
+    -  3 sets of 10 w/10 bicep curls (each arm)
+    -  2 sets of 10 w/15 bicep curls (each arm)
     -  1 sets of 10 w/20 bicep curls (each arm)
-    -  1 sets of 10 w/10 tricep lifts (each arm)
-    -  1 sets of 10 w/15 tricep lifts (each arm)
+    -  3 sets of 10 w/10 tricep lifts (each arm)
+    -  2 sets of 10 w/15 tricep lifts (each arm)
     -  1 sets of 10 w/20 tricep lifts (each arm)
-    -  1 sets of 10 w/10 forearm lifts (each arm)
-    -  1 sets of 10 w/15 forearm lifts (each arm)
+    -  3 sets of 10 w/10 forearm lifts (each arm)
+    -  2 sets of 10 w/15 forearm lifts (each arm)
     -  1 sets of 10 w/20 forearm lifts (each arm)
-    -  1 sets of 10 w/10 lat lifts (each arm)
-    -  1 sets of 10 w/15 lat lifts (each arm)
+    -  3 sets of 10 w/10 lat lifts (each arm)
+    -  2 sets of 10 w/15 lat lifts (each arm)
     -  1 sets of 10 w/20 lat lifts (each arm)
 - Cooldown
     - Stretch
