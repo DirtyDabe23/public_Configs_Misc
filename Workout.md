@@ -26,9 +26,9 @@ Shoes
 - Loafers: Keep in Car
     - Afternoon: Fun socks
 
-Overview
+Workouts
 
-Monday:
+# Monday:
 - Before Work:      Walk Buddy
 - Work: 			Walk
 - After Work: 		Jog 1 Mile / Walk
@@ -36,7 +36,7 @@ Monday:
     - Stretch
     - Mindfulness 
 
-Tuesday:
+# Tuesday:
 - Before Work: 		Walk Buddy
 - Work: 			Walk
 - After Work: 		Walk
@@ -57,7 +57,7 @@ Tuesday:
     - Stretch
     - Mindfulness
 
-Wednesday:
+# Wednesday:
 - Before Work:      Walk Buddy
 - Work: 			Walk
 - After Work: 		Jog 1 Mile / Walk
@@ -65,7 +65,7 @@ Wednesday:
     - Stretch
     - Mindfulness 
 
-Thursday:
+# Thursday:
 - Before Work: 		Walk Buddy
 - Work: 			Walk
 - After Work: 		Walk
@@ -85,7 +85,7 @@ Thursday:
     - Stretch
     - Mindfulness
 
-Friday
+# Friday
 - Before Work:      Walk Buddy
 - Work: 			Walk
 - After Work: 		R E S T
@@ -93,7 +93,7 @@ Friday
     - Stretch
     - Mindfulness 
     
-Saturday
+# Saturday
 - Morning: 
     - Stretch
     - Cardio
@@ -103,7 +103,7 @@ Saturday
 - Before Bed: 		
     - Stretching + Mindfulness 
 
-Sunday
+# Sunday
 - Morning
     - Stretch
     - Cardio
